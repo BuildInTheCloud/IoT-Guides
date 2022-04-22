@@ -1,3 +1,3 @@
 # Guides for IoT Stuff
 
-[Wiki](/BuildInTheCloud/IoT-Guides/wiki)
+[IoT Wiki](https://github.com/BuildInTheCloud/IoT-Guides/wiki)
